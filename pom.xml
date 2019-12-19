@@ -34,12 +34,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://nexus.com:8081/repository/manoj1_release/</url>
+            <url>http://192.168.204.200:8081/repository/vicky_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://nexus.com:8081/repository/manoj1_snap/</url>
+            <url>http://192.168.204.200:8081/repository/vicky_snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
